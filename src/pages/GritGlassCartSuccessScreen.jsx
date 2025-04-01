@@ -34,7 +34,7 @@ export default function () {
 
       <View style={styles.qrContainer}>
         <QRCode
-          value="https://www.europapark.de/en/theme-park/gastronomy/arena-football-coca-cola-sportsbar"
+          value="https://193.322.122.33:3000"
           size={Dimensions.get('window').width / 2.5}
           color={COLORS.main}
         />
